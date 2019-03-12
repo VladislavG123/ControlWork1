@@ -9,3 +9,14 @@ c:\users\гороховв.corp\source\repos\ControlWork\ControlWork\bin\Debug\Ne
 c:\users\гороховв.corp\source\repos\ControlWork\ControlWork\bin\Debug\Newtonsoft.Json.pdb
 c:\users\гороховв.corp\source\repos\ControlWork\ControlWork\bin\Debug\Newtonsoft.Json.xml
 c:\users\гороховв.corp\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.csproj.CopyComplete
+C:\Users\Vlad\Desktop\ControlWork\ControlWork\obj\Debug\ControlWork.csprojAssemblyReference.cache
+C:\Users\Vlad\Desktop\ControlWork\ControlWork\obj\Debug\ControlWork.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\ControlWork\ControlWork\obj\Debug\ControlWork.exe
+C:\Users\Vlad\Desktop\ControlWork\ControlWork\obj\Debug\ControlWork.pdb
+C:\Users\Vlad\Desktop\ControlWork\ControlWork\bin\Debug\ControlWork.exe.config
+C:\Users\Vlad\Desktop\ControlWork\ControlWork\bin\Debug\ControlWork.exe
+C:\Users\Vlad\Desktop\ControlWork\ControlWork\bin\Debug\ControlWork.pdb
+C:\Users\Vlad\Desktop\ControlWork\ControlWork\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vlad\Desktop\ControlWork\ControlWork\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Vlad\Desktop\ControlWork\ControlWork\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vlad\Desktop\ControlWork\ControlWork\obj\Debug\ControlWork.csproj.CopyComplete

@@ -13,7 +13,7 @@ namespace ControlWork
         public string Path { get; set; }
         public UserController()
         {
-            Path = @"C:\Users\гороховв.CORP\source\repos\ControlWork\ControlWork\UsersData\JsonData.txt";
+            Path = @"~UsersData\JsonData.txt";
         }
         public void Register(User user)
         {
