@@ -1,0 +1,11 @@
+c:\users\гороховв.corp\source\repos\ControlWork\ControlWork\bin\Debug\ControlWork.exe.config
+c:\users\гороховв.corp\source\repos\ControlWork\ControlWork\bin\Debug\ControlWork.exe
+c:\users\гороховв.corp\source\repos\ControlWork\ControlWork\bin\Debug\ControlWork.pdb
+c:\users\гороховв.corp\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.csprojAssemblyReference.cache
+c:\users\гороховв.corp\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.csproj.CoreCompileInputs.cache
+c:\users\гороховв.corp\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.exe
+c:\users\гороховв.corp\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.pdb
+c:\users\гороховв.corp\source\repos\ControlWork\ControlWork\bin\Debug\Newtonsoft.Json.dll
+c:\users\гороховв.corp\source\repos\ControlWork\ControlWork\bin\Debug\Newtonsoft.Json.pdb
+c:\users\гороховв.corp\source\repos\ControlWork\ControlWork\bin\Debug\Newtonsoft.Json.xml
+c:\users\гороховв.corp\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.csproj.CopyComplete
