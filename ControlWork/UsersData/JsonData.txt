@@ -1,3 +1,0 @@
-﻿[
-{"Id":0,"FullName":"Vasya","Age":44,"Password":"123qwasfsdgl","Phone":"+6-666-666-66-66","Email":"vasya@vasua.com"}
-{"Id":0,"FullName":"Dinara","Age":15,"Password":"741852","Phone":"+2-222-222-22-22","Email":"Dinara@gmail.ru"}
